@@ -40,18 +40,19 @@ a:visited{
 .mmm{
     background-color: #FF6600;
     width: 100%;
-    height: 20vh;
+    height: 35vh;
 
 }
 .kkk{
     background-color: #4c4c4c;
     width: 100%;
-    height: 20vh;
+    height: 35vh;
 }
 .lll{
     width: 100%;
-    height: 20vh;
+    height: 30vh;
     text-align: center;
+    padding: 80px;
 }
 h1{
     font-size: 100px;
